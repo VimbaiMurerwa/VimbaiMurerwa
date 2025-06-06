@@ -12,22 +12,21 @@ Currently focused on building clean, responsive front-end applications using **R
 🔹 **Netflix Clone** – A stylish streaming UI using React + TMDB + Firebase  
 🔹 [More coming soon...]
 
----
 
-### 🧠 What I'm Learning
+###  What I'm Learning
 
 - Building full-stack apps with Firebase
 - Writing cleaner, reusable components in React
 - Structuring projects for scalability
 - Improving UI/UX with better design systems
 
----
+
 
 ### 📌 Currently
 
-- 🧱 Improving my frontend projects
-- 💼 Looking for a junior frontend developer role
-- ✍🏽 Sharing my journey & progress
+- Improving my frontend projects
+- Looking for a junior frontend developer role
+- Sharing my journey & progress
 
 ---
 
